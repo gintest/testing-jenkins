@@ -1,3 +1,3 @@
-#!/bin/bash
+ifconfig
 
-ls
+echo "it has been executed"
